@@ -1,0 +1,4 @@
+
+1.Enter any city name and press the 'Get Weather' button and then data will be shown in container.
+2.for  temperature there is drop down to select between  Celsius and Fahrenheit.
+3.if the entered name of city is incorrect then 'City Not Found' error will be shown.
